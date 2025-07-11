@@ -1,6 +1,7 @@
 # React Testing Environment Project Template (Empty but Ready for Prototyping & Testing)
 
-<img width="653" height="116" alt="Screenshot 2025-06-18 at 04 00 08" src="https://github.com/user-attachments/assets/59cb3d87-e246-4a2c-a71a-17b7bd57dde5" /> <img width="699" height="198" alt="Screenshot 2025-06-18 at 03 59 47" src="https://github.com/user-attachments/assets/b1df46ad-416c-4e02-b039-8d85deffc338" />
+![Screenshot 2025-06-18 at 04 00 08](https://github.com/user-attachments/assets/59cb3d87-e246-4a2c-a71a-17b7bd57dde5)
+![Screenshot 2025-06-18 at 03 59 47](https://github.com/user-attachments/assets/b1df46ad-416c-4e02-b039-8d85deffc338)
 
 ---
 
